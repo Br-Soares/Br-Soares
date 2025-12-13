@@ -27,6 +27,4 @@
   
 </div>
 
-## 🧠 Linguagens utilizadas
-
 ![Linguagens por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Br-Soares&theme=github)
