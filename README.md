@@ -1,4 +1,6 @@
 ## Hi Bruno Soares
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA¢er=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;JavaScript+|+HTML+|+CSS)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,15 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-</div>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,js,html,css,java,git,vscode&theme=dark)](https://skillicons.dev)
+
   
   ##
  
