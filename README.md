@@ -1,4 +1,7 @@
-## Hi Bruno Soares
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Bruno+Soares&fontAlign=50&fontSize=40)
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA¢er=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;JavaScript+|+HTML+|+CSS)](https://git.io/typing-svg)
 
 
@@ -15,13 +18,12 @@
 
   
   ##
- 
-<div> 
-  
-  <a href="https://www.instagram.com/_b.soares_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/br_wizard/701861533281419375" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <!-- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  
-</div>
+<div align="center">
 
-![Linguagens por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Br-Soares&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Br-Soares&theme=tokyonight)
+![Linguagens por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Br-Soares&theme=tokyonight&hide_border=true)
+
+</div>
+ 
+
+
